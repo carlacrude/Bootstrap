@@ -1,0 +1,52 @@
+header.header-img {
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+    background: url("./img/aulas.jpg") center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+.size {
+    font-size: 33px;
+    font-weight: 500;
+}
+
+section.icons{
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+
+.icons-style i {
+   font-size: 60px;
+   padding-bottom: 10px;
+}
+
+p{
+    font-size: 18px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    font-family: 'Indie Flower', cursive;
+}
+
+footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.icons-footer {
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+
+
+
+
+/* @media (max-width: 400px) {
+    .icons-space {
+        padding-bottom: 4rem;
+        padding-top: 4rem; 
+    }
+} */
