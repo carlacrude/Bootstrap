@@ -1,0 +1,37 @@
+header.banner {
+    background: url(../img/img-1.png) no-repeat center center;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+.icon {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    color: black;
+}
+
+
+a {
+    color: #c74335;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #c74335;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+footer.footer {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+#size {
+    font-size: 40px;
+}
